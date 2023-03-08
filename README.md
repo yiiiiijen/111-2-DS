@@ -5,20 +5,20 @@
 -------------
 姓名 : 王依仁<br />
 系級 : 科技系114級 <br />
-擅長 : 實作、手做
+擅長 : 實作、手做<br />
 
 課堂資料👾
 -------------
-[ChatGPT](https://leetcode.com/yiiiiijen/)
-[LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xklgsnf3)
+[ChatGPT](https://leetcode.com/yiiiiijen/)<br />
+[LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xklgsnf3)<br />
 
 課堂作業🕹️
 -------------
-a. Prefix Sum + String
-b. Greedy + Tree
-c. Binary Search 
-d. Graph / BFS / DFS
-e. Stack + Heap
+a. Prefix Sum + String<br />
+b. Greedy + Tree<br />
+c. Binary Search <br />
+d. Graph / BFS / DFS<br />
+e. Stack + Heap<br />
 
 作業參考資料🧩
 -------------
