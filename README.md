@@ -15,7 +15,7 @@
 
 課堂作業🕹️
 -------------
-a. Prefix Sum + String<br />
+a. [Prefix Sum](https://youtu.be/MGDEjqxxx6Q) + [String]()<br />
 b. Greedy + Tree<br />
 c. Binary Search <br />
 d. Graph / BFS / DFS<br />
