@@ -27,3 +27,4 @@ e. Stack + Heap<br />
 - [Prefix Sum 前綴和](https://www.twblogs.net/a/5edebd5274efa30adcc735cc)
 - [String 字串](https://selflearningsuccess.com/pythonstring/)
 - [Greedy algorithm 貪婪演算法](https://ithelp.ithome.com.tw/articles/10277276?sc=iThelpR)
+- [Tree 樹](https://ithelp.ithome.com.tw/articles/10220990)
