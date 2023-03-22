@@ -26,3 +26,4 @@ e. Stack + Heap<br />
 - [Array 陣列](https://ithelp.ithome.com.tw/articles/10213787)
 - [Prefix Sum 前綴和](https://www.twblogs.net/a/5edebd5274efa30adcc735cc)
 - [String 字串](https://selflearningsuccess.com/pythonstring/)
+- [Greedy algorithm 貪婪演算法](https://ithelp.ithome.com.tw/articles/10277276?sc=iThelpR)
