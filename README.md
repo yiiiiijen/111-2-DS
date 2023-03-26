@@ -16,7 +16,7 @@
 課堂作業🕹️
 -------------
 a. [Prefix Sum](https://youtu.be/MGDEjqxxx6Q) + [String](https://youtu.be/pcgj-gGY_3s)<br />
-b. [Greedy](https://youtu.be/crcsnb-j9_E) + Tree<br />
+b. [Greedy](https://youtu.be/crcsnb-j9_E) + [Tree](https://youtu.be/VCiysyYKC2Q)<br />
 c. Binary Search <br />
 d. Graph / BFS / DFS<br />
 e. Stack + Heap<br />
