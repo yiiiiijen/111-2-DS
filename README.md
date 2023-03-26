@@ -28,3 +28,4 @@ e. Stack + Heap<br />
 - [String 字串](https://selflearningsuccess.com/pythonstring/)
 - [Greedy algorithm 貪婪演算法](https://ithelp.ithome.com.tw/articles/10277276?sc=iThelpR)
 - [Tree 樹](https://ithelp.ithome.com.tw/articles/10220990)
+- [Bool 布林值](https://clay-atlas.com/blog/2019/08/05/python-cn-logic-bool-true-false/)
