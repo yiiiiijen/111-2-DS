@@ -29,4 +29,4 @@ e. Stack + Heap<br />
 - [Greedy algorithm 貪婪演算法](https://ithelp.ithome.com.tw/articles/10277276?sc=iThelpR)
 - [Tree 樹](https://ithelp.ithome.com.tw/articles/10220990)
 - [Bool 布林值](https://clay-atlas.com/blog/2019/08/05/python-cn-logic-bool-true-false/)
-- [Binary Search 二分搜尋]([https://ithelp.ithome.com.tw/articles/10206818](https://magiclen.org/binary-search/))
+- [Binary Search 二分搜尋](https://magiclen.org/binary-search/)
