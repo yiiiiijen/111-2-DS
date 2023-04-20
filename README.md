@@ -30,3 +30,4 @@ e. Stack + Heap<br />
 - [Tree 樹](https://ithelp.ithome.com.tw/articles/10220990)
 - [Bool 布林值](https://clay-atlas.com/blog/2019/08/05/python-cn-logic-bool-true-false/)
 - [Binary Search 二分搜尋](https://magiclen.org/binary-search/)
+- [Binary Search Tree 二分搜尋樹](https://pjchender.dev/dsa/dsa-bst/)
