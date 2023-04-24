@@ -17,8 +17,8 @@
 -------------
 a. [Prefix Sum](https://youtu.be/MGDEjqxxx6Q) + [String](https://youtu.be/pcgj-gGY_3s)<br />
 b. [Greedy](https://youtu.be/crcsnb-j9_E) + [Tree](https://youtu.be/VCiysyYKC2Q)<br />
-c. Binary Search + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8BBinary-Search-v.s.-%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%A8%B9Binary-Search-Tree)<br />
-d. Graph / BFS / DFS<br />
+c. [Binary Search](https://youtu.be/bD7QWvFzPso) + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8BBinary-Search-v.s.-%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%A8%B9Binary-Search-Tree)<br />
+d. Graph / BFS / [DFS]()<br />
 e. Stack + Heap<br />
 
 作業參考資料🧩
@@ -32,3 +32,4 @@ e. Stack + Heap<br />
 - [Binary Search 二分搜尋](https://magiclen.org/binary-search/)
 - [Binary Search Tree 二分搜尋樹](https://pjchender.dev/dsa/dsa-bst/)
 - [DFS 深度優先搜尋 & BFS 廣度優先搜尋](https://ithelp.ithome.com.tw/articles/10281404)
+- [Iterative Binary Tree Traversal 遍歷二元樹](https://shubo.io/iterative-binary-tree-traversal/)
