@@ -33,3 +33,5 @@ e. Stack + Heap<br />
 - [Binary Search Tree 二分搜尋樹](https://pjchender.dev/dsa/dsa-bst/)
 - [DFS 深度優先搜尋 & BFS 廣度優先搜尋](https://ithelp.ithome.com.tw/articles/10281404)
 - [Iterative Binary Tree Traversal 遍歷二元樹](https://shubo.io/iterative-binary-tree-traversal/)
+- [Stack 堆疊](https://ithelp.ithome.com.tw/articles/10241274)
+- [Heap 堆積](https://ithelp.ithome.com.tw/articles/10206479)
