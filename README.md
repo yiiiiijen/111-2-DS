@@ -19,7 +19,7 @@ a. [Prefix Sum](https://youtu.be/MGDEjqxxx6Q) + [String](https://youtu.be/pcgj-g
 b. [Greedy](https://youtu.be/crcsnb-j9_E) + [Tree](https://youtu.be/VCiysyYKC2Q)<br />
 c. [Binary Search](https://youtu.be/bD7QWvFzPso) + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8BBinary-Search-v.s.-%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%A8%B9Binary-Search-Tree)<br />
 d. [Graph](https://youtu.be/h3dMFNl0DzU) / BFS / [DFS](https://youtu.be/xrYZevlv_CU)<br />
-e. [Stack]() + [Heap]()<br />
+e. [Stack]() + [Heap]() + [note✒️]()(<br />
 
 作業參考資料🧩
 -------------
@@ -35,3 +35,4 @@ e. [Stack]() + [Heap]()<br />
 - [Iterative Binary Tree Traversal 遍歷二元樹](https://shubo.io/iterative-binary-tree-traversal/)
 - [Stack 堆疊](https://ithelp.ithome.com.tw/articles/10241274)
 - [Heap 堆積](https://ithelp.ithome.com.tw/articles/10206479)
+- [Stack 與 Heap 差異](https://medium.com/@yauhsienhuang/stack-%E8%88%87-heap-%E6%9C%89%E4%BD%95%E5%B7%AE%E5%88%A5-acdcc11263a0)
