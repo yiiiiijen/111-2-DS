@@ -19,7 +19,7 @@ a. [Prefix Sum](https://youtu.be/MGDEjqxxx6Q) + [String](https://youtu.be/pcgj-g
 b. [Greedy](https://youtu.be/crcsnb-j9_E) + [Tree](https://youtu.be/VCiysyYKC2Q)<br />
 c. [Binary Search](https://youtu.be/bD7QWvFzPso) + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8BBinary-Search-v.s.-%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%A8%B9Binary-Search-Tree)<br />
 d. [Graph](https://youtu.be/h3dMFNl0DzU) / BFS / [DFS](https://youtu.be/xrYZevlv_CU)<br />
-e. [Stack]() + [Heap](https://youtu.be/obVuMHqJ-VU) + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/Stack%E5%A0%86%E7%96%8A--v.s.-Heap-%E5%A0%86%E7%A9%8D)(<br />
+e. [Stack](https://youtu.be/aLUwNskA_KI) + [Heap](https://youtu.be/obVuMHqJ-VU) + [note✒️](https://github.com/yiiiiijen/111-2-DS/wiki/Stack%E5%A0%86%E7%96%8A--v.s.-Heap-%E5%A0%86%E7%A9%8D)(<br />
 
 作業參考資料🧩
 -------------
